@@ -1,2 +1,2 @@
 <!-- title -->
-its a Notes app to remember your thoughts
+its a Notes app to remember your thoughtss
